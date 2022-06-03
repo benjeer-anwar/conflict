@@ -1,4 +1,6 @@
-helloD
-hello2=
-i dont like conflict 
+
+hello
+hello=
+i dont like conflict =
+what
 
