@@ -1,6 +1,6 @@
 
 hello
-hello=
-i dont like conflict =
+hell=
+i dont like conflict 
 what
-
+no
